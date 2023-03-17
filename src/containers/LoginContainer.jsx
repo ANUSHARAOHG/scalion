@@ -45,7 +45,7 @@ export default function LoginContainer() {
                     </a>
                   </div>
                             <div className="text-center pt-3">
-                                <p className="text-dark mb-0">Not a member?<a href="/register" className="text-primary ms-1">Sign UP</a></p>
+                                <p className="text-dark mb-0">Not a member?<a href="/register" className="text-primary ms-1">Sign Up</a></p>
                             </div>
                             
                         </div>
