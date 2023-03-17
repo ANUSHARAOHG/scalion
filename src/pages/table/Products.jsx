@@ -35,7 +35,7 @@ export default function Search() {
                     <tbody>
                       <tr>
                         <td>SAFAL Gingelly OIL 500 ML Bottle</td>
-                        <td>Serrano</td>
+                        <td></td>
                         <td>140</td>
                         <td>
                           {" "}
@@ -58,7 +58,7 @@ export default function Search() {
                       </tr>
                       <tr>
                         <td>SAFAL Gingelly OIL 500 ML Bottle</td>
-                        <td>Serrano</td>
+                        <td></td>
                         <td>140</td>
                         <td>
                           {" "}
