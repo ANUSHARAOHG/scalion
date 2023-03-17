@@ -74,7 +74,7 @@ export default function Register() {
 
                   <div className="container-login100-form-btn">
                     <a
-                      href="/table/products"
+                      href="/"
                       className="login100-form-btn btn-facebook"
                     >
                       Register
